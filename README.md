@@ -1,4 +1,5 @@
 [![Mathematica](https://img.shields.io/badge/Wolfram-Mathematica-DD1100?logo=wolfram-mathematica&logoColor=DD1100)](https://www.wolfram.com/mathematica/)
+[![View notebooks](https://wolfr.am/HAAhzkRq)](https://wolfr.am/1ek3Mq22e)
 
 # Majorana-Magnon Interactions in Topological Shiba Chains
 
@@ -16,7 +17,7 @@ The code contains two sections, each performing a specific task:
 
 ## Usage
 
-The code `MajoranaMagnonYSR.nb` is written by the Wolfram Language in the form of Mathematica notebook. Please note that the code uses several global constants that are defined at the beginning of the code. You may need to adjust these constants depending on your specific use case. Additional code and data for generating other figures in the manuscript are available from the corresponding authors upon reasonable request.
+The code `MajoranaMagnonYSR.nb` is written by the Wolfram Language in the form of Mathematica notebook ([view online](https://wolfr.am/1ek3Mq22e)). Please note that the code uses several global constants that are defined at the beginning of the code. You may need to adjust these constants depending on your specific use case. Additional code and data for generating other figures in the manuscript are available from the corresponding authors upon reasonable request.
 
 ## References
 
