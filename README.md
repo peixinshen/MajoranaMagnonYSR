@@ -23,7 +23,7 @@ The code `MajoranaMagnonYSR.nb` is written by the Wolfram Language in the form o
 
 <div id="refer-anchor-1"></div> 
 
-[1] P.-X. Shen*, V. Perrin*, M. Trif, and P. Simon, Majorana-magnon interactions in topological Shiba chains, [arXiv:2303.13513 (2023)](https://arxiv.org/abs/2303.13513).
+[1] P.-X. Shen*, V. Perrin*, M. Trif, and P. Simon, Majorana-magnon interactions in topological Shiba chains, [Phys. Rev. Res. 5, 033207 (2023)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033207).
 
 <div id="refer-anchor-2"></div>
 
