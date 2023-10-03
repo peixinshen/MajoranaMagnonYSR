@@ -11,7 +11,8 @@ authors:
     email: peixin.shen@outlook.com
     orcid: 'https://orcid.org/0000-0003-2761-5083'
 identifiers:
-  - type: other
-    value: 'arXiv:2303.13513'
+  - type: doi
+    value: 10.1103/PhysRevResearch.5.033207
 repository-code: 'https://github.com/peixinshen/MajoranaMagnonYSR'
 license: MIT
+date-released: '2023-09-25'
